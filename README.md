@@ -22,7 +22,7 @@ By the community for the comminty .
 If it a typo,false information or improvement to the guide, do it. And translations the docs into your language will be approachable . For the contributing guide [click here](https://github.com/null-gman/GNU-Linux-to-Control-Your-Computer/blob/main/Contributing%20Guide.md) .  
 
 # Lessons Table
-1. [What is a Computer and Operating System](What is a Computer and Operating System)
+1. [What is a Computer and Operating System](https://github.com/null-gman/GNU-Linux-to-Control-Your-Computer/blob/main/English/1_What%20is%20a%20Computer%20and%20operating%20system.md)
 
 # Further Reading
 There are very good resources to learn more about GNU/Linux, like:
