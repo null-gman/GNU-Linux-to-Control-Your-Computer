@@ -1,18 +1,56 @@
-# Every One Can Contribute
-I want this guide to be really good so that i want your help , this what make the free software comminty really powerfull .
+# 1. Having a Good Writing skills
+Find typos ,or improve unclear sentence to be more clear for the readers .
+## Steps
+1. Find and issues.
+2. No issues is needed , just fork then fix then pull request.
+3. Wait for the maintainer to review you changes.
+4. Merged Into Main !!!.
+# 1. Having a Good Technical Knowledge
+You found a false information , or having an information that will be helpful in the document . 
+## Found a false information
+### Steps
+1. Open An issues with label 
+2. Discuss why its false and what the correct one with the contributors.
+3. Wait maintainer agreemant 
+4. Pull request your correct version .
+## Having an information that will be helpful in the document . 
+### Steps
+1. Open An issues with label 
+2. Discuss it with the contributors.
+3. Wait maintainer agreement 
+4. Pull request your version .
 
-# What You Can Do ?
-## Fix typos
-I'am so bad in humans languahs and maybe many other contributers as well , so will you become our humane auto correction ?
-## You are a nerd 
-You find some falssy information , so give us a lesson with the correct ones . 
-## Have an improvment
-You are nerder that our frind above . However it will very apprachable .
-## I Want My Pepole To Learn That as well
-Transle the modules to your languaghj in it's folder .
 
-# How to Do it then?
-## Fixing typo 
-While reading the document, you may find a spelling error or an unclear sentence. You have two options: either to contribute by fixing them immediately, or the other option is to report it in the issue list under the "Fix a typo" label.
-## I Want My Pepole To Learn That as well
-Open an issuse under 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
