@@ -13,7 +13,7 @@ Maybe i will make a typo or even input a false information in this document , so
 I know there are many Linux resources out there , however why not increasing the recourse by 1 . And when i started GNU/Linux journey i learned form many different places and there are core consents that are rarely talking about , so that i want this GNU/Linux guide to be very comprehensive for beginners , you will not be a sysadmin ,however you will learn how to use your GNU/Linux systems .
 ---
 # Lessons
-1. What is a Computer 
+1. [What is a Computer](./Lessons/1_What is a Computer.md)
 ---
 # Contributing
 You can improve this docs by having a technical knowledge ,writing skills or finding issues . 
