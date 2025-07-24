@@ -17,7 +17,7 @@ I know there are many Linux resources out there , however why not increasing the
 ---
 # Contributing
 You can improve this docs by having a technical knowledge ,writing skills or finding issues . 
-- Contributing Guide .
+- [Contributing Guide](./CONTRIBUTING.md) .
 
 # Further Reading
 There are very good resources to learn more about GNU/Linux, like:
