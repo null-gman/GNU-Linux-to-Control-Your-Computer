@@ -19,7 +19,7 @@ I know there are many Linux resources out there , why not increes the recourse b
 # Contributing    
 By the community for the comminty .  
 ## Report an issues
-If it a typo,false information or improvement to the guide, do it. And translations the docs into your language will be approachable . For the contributing guide ***[click here](./Contributing Guide.md)*** .  
+If it a typo,false information or improvement to the guide, do it. And translations the docs into your language will be approachable . For the contributing guide [click here](https://github.com/null-gman/GNU-Linux-to-Control-Your-Computer/blob/main/Contributing%20Guide.md) .  
 
 # Lessons Table
 1. [What is a Computer and Operating System](What is a Computer and Operating System)
